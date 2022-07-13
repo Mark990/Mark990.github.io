@@ -33,6 +33,12 @@ h1 {
   text-shadow: 3px 3px 1px black;
 }
 
+#noteImagen {
+  font-size: 15px;
+  text-align: center;
+  color: #000;
+  text-shadow: 0 0 0 black;
+}
 
 p, li {
   /* font-size: 16px;   ---- No lo activo porque mi tamaño de letra es más grande que 16px */
@@ -46,5 +52,7 @@ img {
   width: 200px;
 }
 
-
+a {
+  text-shadow: 0 0 0 black;
+}
 
